@@ -1,0 +1,14 @@
+@import "_main.scss";
+@import "_grid-element.scss";
+@import "_mobile.scss";
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face{
+    font-family: "BarlowsemiCondenscend";
+    src: url("fonts/BarlowSemiCondensed-Medium.ttf"),
+    url("fonts/BarlowSemiCondensed-SemiBold.ttf");
+}
